@@ -2,7 +2,7 @@
 
 This sub-folder contains an example of filtering and selecting the top sgRNAs generated for the corresponding target regions. 
 
-**Intron DMRs Patwise Hyper to be designed.rds**: this binary file that contains the GRange object for the target region is presented in the sub-folder to ensure sgRNAs are designed for all related target regions.
+**Intron DMRs Patwise Hyper to be designed.rds**: this binary file that contains the GRanges object for the target region is presented in the sub-folder to ensure sgRNAs are designed for all related target regions.
 
 **top 20 sgRNAs Patwise Hyper to be designed**: this .R script demonstrates an example of filtering the sgRNAs designed by CRISPRseek, keep the ones within the target regions and selecting the top ones based on the predicted efficacy. 
 
