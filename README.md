@@ -6,4 +6,4 @@ This repository contains the workflow of short guide RNA design (sgRNAs) and sel
 
 2. Call CRISPRseek to design the sgRNAs for the target sequences and select the ones that have the highest predicted efficacy.
 
-See the README file of each folder for more details. 
+See the README file within each folder for more details. 
